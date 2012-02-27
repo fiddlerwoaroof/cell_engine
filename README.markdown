@@ -7,5 +7,5 @@
 
 ### Description:
 
-See cell\_engine.py for exmample usage. Run python cell\_engine.py press 'e' to begin simulation.
+See cell\_engine.py for example usage. Run python cell\_engine.py press 'e' to begin simulation.
 
